@@ -42,7 +42,7 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 
 ### Co-authors
 * **Dr Pippa Whitehouse**
-* * **Dr Fiona Hibbert**
+* **Dr Fiona Hibbert**
 * **Dr Sarah Woodroffe**
 * **Dr Gustavo Hinestrosa**
 * **Prof. Jody M. Webster**
