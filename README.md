@@ -34,6 +34,7 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 * **Data/average_hali.npy** - A npy file contains ensemble mean *Halimeda* bioherms history.
 * **Data/average_sili.npy** - A npy file contains ensemble mean siliciclastic sediment history.
 * **Data/grid_co.npy** - A npy file contains sediment model grid cell locations.
+* **Data/Lin_22_data.xlsx** - An excel files contains all sea-level data used in this study.
 
 
 ## Corresponding Author
