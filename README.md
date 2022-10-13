@@ -59,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE] file for deta
 ## Acknowledgments
 
 Y.L. was supported by China Scholarship Council - Durham University joint scholarship. F.D.H. received funding from the European Union’s Horizon 2020 research and innovation programme under the Marie Sklodowska-Curie grant agreement (No. 838841 – ExTaSea). J.M.W received funding from the Australian Research Council (DP1094001). The authors acknowledge PALSEA, a working group of the International Union for Quaternary Sciences (INQUA) and Past Global Changes (PAGES), which in turn received support from the Swiss Academy of Sciences and the Chinese Academy of Sciences.
-
