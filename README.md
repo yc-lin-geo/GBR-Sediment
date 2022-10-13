@@ -36,6 +36,8 @@ This codebase requires **Python version 3.5+** to run. It was written and tested
 * **Data/grid_co.npy** - A npy file contains sediment model grid cell locations.
 * **Data/Lin_22_data.xlsx** - An excel files contains all sea-level data used in this study.
 
+* **SIA_emulator.ipynb** - A notebook contains the code used for training and validating SIA emulator
+
 
 ## Corresponding Author
 
