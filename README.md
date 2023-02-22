@@ -1,6 +1,6 @@
-# Code supporting "Relative sea level response to mixed carbonate-siliciclastic sediment loading along the Great Barrier Reef margin" by Lin et al. (Submitted)
+# Code supporting "Relative sea level response to mixed carbonate-siliciclastic sediment loading along the Great Barrier Reef margin" by Lin et al. (2023)
 
-This repository contains the Python code base for [Lin et al.]:  "Relative sea level response to mixed carbonate-siliciclastic sediment loading along the Great Barrier Reef margin".
+This repository contains the Python code base for Lin et al., (2023): "Relative sea level response to mixed carbonate-siliciclastic sediment loading along the Great Barrier Reef margin". 
 
 
 **Project abstract:**
